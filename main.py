@@ -186,6 +186,5 @@ elif st.session_state.current_page == "Login":
             else:
                 st.error("❌ Incorrect password!")
 
-# Add a footer
 st.markdown("---")
-st.markdown("🔐 Secure Data Encryption System | Educational Project")
+st.markdown("🔐 Secure Data Encryption System | Educational Project")  
